@@ -1,0 +1,17 @@
+{
+    "flow_optimum": 308.0,
+    "flow_min": 257.0,
+    "flow_max": 435.7,
+    "rated_flow": 780.0,
+    "pressure_rise_optimum": 50.0,
+    "pressure_rise_min": 31.0,
+    "pressure_rise_max": 87.0,
+    "current_optimum": 17.5,
+    "current_warning": 19.0,
+    "current_critical": 21.0,
+    "voltage_nominal": 418.0,
+    "voltage_tolerance": 5.0,
+    "hmr_optimum": 2.03,
+    "hmr_warning": 3.32,
+    "hmr_critical": 4.02
+}
